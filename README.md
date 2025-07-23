@@ -1,98 +1,47 @@
-MOBİL UYGULAMA GİZLİLİK BİLDİRİMİ
-Sürüm, 01 Ocak 2017
- 
-Tüm Kullanıcılarımızın gizliliği bizim için çok önemlidir. Bir Uygulama Kullanıcısı olarak Hizmetimizi kullandığınızda, (Uygulama Yayıncısı olarak) Kişisel Verilerinizi işleriz. Bu Gizlilik Bildirimi, Kişisel Verilerinizi nasıl koruduğumuzu ve işleme koyduğumuzu açıklar. Dikkatlice okumanızı öneririz. 
-1. Bu Gizlilik Bildiriminde ne belirtilmiştir?
- 
-Bu Gizlilik Bildirimindeki bölümler size aşağıdakiler hakkında bilgi verir: 
+Gizlilik Politikası
+Son Güncelleme: 23.07.2025
 
-İşlenen Kişisel Verilerin türleri,
-Kişisel Verilerin işlenme amaçları, 
-Kişisel Verilerin işlendiği yerler,
-Kişisel Verileri korumak için uygulanan güvenlik önlemleri,
-Üçüncü şahıslarla ilgili sorumluluk sınırları,
-Kişisel Verilerinizi görüntüleme, değiştirme ve silme,
-Bu Gizlilik Bildiriminde yapılan değişiklikler; 
-Sorunuz veya açıklamalarınız varsa ne yapacaksınız? 
+com.yuhdeveloper.pomodoroapp uygulamasını (“Uygulama”) kullandığınız için teşekkür ederiz. Bu gizlilik politikası, uygulamanın kullanıcılarından hangi bilgileri topladığını, bu bilgilerin nasıl kullanıldığını ve nasıl korunduğunu açıklamaktadır.
 
-2. İşlenen Kişisel Verilerin türleri
+1. Toplanan Bilgiler
 
-A. Hizmetimiz tarafından kullanılan Kişisel Veriler 
-Hizmetimizi geliştirmek için Anonim Verileri kullanırız. Bu bilgiler, Hizmet aracılığıyla kamuya açıklanmayacaktır.
- 
-B. Otomatik olarak oluşturulan bilgiler 
-Çoğu diğer web siteleri ve çevrimiçi hizmetler gibi, Uygulamayı nasıl kullandığınızla ilgili olarak otomatik olarak üretilen bilgileri toplar ve işleriz. Toplanan bilgiler, ip adresinizi ve / veya benzersiz cihaz kimliğinizi içerir.
- 
-Özellikle katılmayı seçerseniz, Uygulama, coğrafi konum bilgilerinizi toplayabilir. Her durumda, coğrafi konum bilginizin alınmasını mobil cihazınızın ayarlarından engelleyebilirsiniz.
- 
-Sosyal ağ hesabınızdan bilgi erişimi ve toplama izni vermeyi özellikle tercih ederseniz, sosyal ağ hesabınızdaki temel kişisel bilgileriniz (adınız ve e-posta adresiniz gibi) ve ayrıca sosyal ağ kullanıcı kimliği ( şifreniz değil ) ve Uygulama aracılığıyla paylaştığınız yayınlarla ilgili parametreler. Erişilebilen ve alınabilecek bilgileri kontrol etmek için hesabınızın gizlilik tercihlerini nasıl ayarlayabileceğiniz hakkında daha fazla bilgi için lütfen sosyal ağın gizlilik politikasına bakın.
+Pomodoro uygulamamız, kullanıcıdan herhangi bir kişisel bilgi talep etmemektedir. Uygulama kullanım esnasında şu bilgileri otomatik olarak toplayabilir:
+	•	Uygulama kullanım istatistikleri (örneğin sayaç başlatma/durdurma)
+	•	Cihaz tipi ve işletim sistemi bilgileri (sadece hata ayıklama amacıyla)
+	•	Hatalar ve çökme günlükleri (Crash reports)
 
-Bu, aynı zamanda, Uygulamayı nasıl kullandığınıza ilişkin otomatik olarak oluşturulmuş bilgilerle ilgili olarak gerçekleşir. Bu tür bilgiler, Uygulamanın nasıl kullanıldığını daha iyi anlamamıza ve bir kullanıcı olarak ihtiyacınıza uygun hizmet üretmemize yardımcı olur.
+Bu bilgiler, uygulamanın iyileştirilmesi ve kullanıcı deneyiminin geliştirilmesi amacıyla anonim olarak toplanır.
 
-Uygulama içindeki kullanıcı yetkilendirme özelliklerini etkinleştirirseniz, aşağıdaki ek bilgiler saklanır: 
+2. Bilgi Kullanımı
 
-İsim,
-E-posta,
-Telefon numarası (isteğe bağlı);
-Facebook, Twitter, Google+ veya LinkedIn gibi harici bir sağlayıcı tarafından gönderilen ek profil bilgileri.
- 
-Uygulama sahibine, uygulamanın kullanımı hakkında bilgi vermek için aşağıdaki (bilinmeyen) bilgileri de topluyoruz: 
+Toplanan bilgiler aşağıdaki amaçlarla kullanılabilir:
+	•	Uygulamanın teknik performansını iyileştirmek
+	•	Hataları ve çökmeleri analiz etmek
+	•	Uygulama içeriğini ve kullanıcı deneyimini geliştirmek
 
-• Uygulamayı açtığınız an,
-• Uygulamanın içinde açtığınız ekranlar ve bu ekranlarda harcadığınız süre,
-• Uygulamadan ayrıldığınız an.
- 
-Not: kullanıcı yetkilendirme özellikleri etkinleştirilmişse, giriş yaptığınızda anonim bilgileri sizin bilgilerinizle ilişkilendirebiliriz.
+3. Bilgi Paylaşımı
 
-C. Belirli Bilgiler 
-Size sadakat kartı, haber bültenleri, reklamcılık gibi bazı etkinliklerle başvurmanız istenebilir; bu durumda bazı kişisel bilgiler istenir. Bu bilgiler, hizmetimizin (üçüncü şahıslar dahil) veritabanında saklanır ve bizimle paylaşılacaktır.
- 
-Uygulamadaki fotoğraflar da dahil olmak üzere Veri yüklediğinizde, bu paylaşılacak ve uygulamanın diğer tüm kullanıcıları tarafından görülebilecektir.
-3. Kişisel Verilerin işlenme amaçları
- 
-A. Amaçlar 
+Toplanan bilgiler üçüncü taraflarla paylaşılmaz. Ancak, uygulamanın istatistiksel analizi için Google Firebase veya benzeri güvenilir analiz hizmetleri kullanılabilir. Bu tür hizmetlerin kendi gizlilik politikaları geçerlidir.
 
-Taraflar Kişisel Verileri aşağıdaki amaçlarla işlemektedir: 
+4. Güvenlik
 
-Hizmeti kullanabilmenizi sağlamak için,
-Hizmetimizle ilgili bilgileri güncel tutmak için,
-Hizmetin iyileştirilmesi ve / veya özelleştirilmesi için,
-Sizi tanımlamak / veya Hizmeti özelleştirmek için,
-Sizi tanımak ve dolandırıcılığı önlemek için,
-Destek sağlamak için,
-Kişisel Verilerinizi, bizden bunu talep ettiğiniz takdirde veya yasal olarak yükümlü olduğumuz durumlarda, üçüncü şahıslara iletmek.
-   
- 
-B. Kişisel Verilerin üçüncü şahıslara iletilmesi 
-Sizden önceden izin alınmaksızın Kişisel Verilerinizi üçüncü şahıslara satmamaktayız, satmıyor veya kiralamıyoruz. Bununla birlikte, Ücretli Hizmetlerle ilgili ödeme sağlayıcıları aracılığıyla ödeme yapmak gibi Kişisel Verilerinizi size sağlama veya talimatları yerine getirmeniz açısından şart olduğu durumlarda, Kişisel Verilerinizi üçüncü taraflara sağlayabiliriz. 
+Kullanıcı verilerini korumak için gerekli teknik ve idari önlemler alınmaktadır. Uygulama, veri ihlali riskini en aza indirmek için güvenli yazılım geliştirme yöntemleri kullanmaktadır.
 
-Uygun olduğunu düşündüğümüz şekilde Hizmet'in bu tür amaçlar için üçüncü taraflara kullanımı hakkında "toplu anonim veriler" sağlayabiliriz. "Toplam anonim veriler", size geri gönderilemeyen ve bu nedenle Kişisel Veriler olarak sayılmayan verilerdir. Örneğin, Kullanıcıların Hizmeti nasıl kullandığını daha iyi anlamak için toplu anonim verileri kullanabiliriz.
+5. Üçüncü Taraf Bağlantıları
 
-Üçüncü bir tarafa geçtiğimiz veya bir üçüncü tarafla birleştiğimiz veya bir yeniden yapılandırmaya tabi olduğumuz durumda, Kişisel Verileriniz de üçüncü kişilere açıklanabilir ve / veya bu üçüncü kişiye devredilebilir. Bu üçüncü taraf, Kişisel Verileri ve bize sağladığınız diğer bilgileri kullanmaya devam etme hakkına sahip olacak. 
+Uygulama, kullanıcıyı harici bağlantılara yönlendirmez. Ancak ileride dış bağlantılar eklenirse, bu bağlantıların gizlilik politikalarının sorumluluğu geliştiriciye ait değildir.
 
-Kişisel Verilerinizi, iyi niyetle, bir mahkeme kararı, halen devam eden adli işlem, cezai veya sivil mahkeme celbi veya kolluk kuvveti makamları tarafından verilen diğer yasal işlem veya taleplere uymanız gerektiğine inandığımız yerlerde ifşa edebiliriz veya egzersiz yapabiliriz Yasal hakları veya yasal iddialara karşı savunmak. 
-4. Kişisel Verilerin işlendiği yerler
-Hizmet kapsamında işlenen verilerin tutulduğu veri merkezileri değişik bölgelerde bulunmaktadır., Türkiye, İrlanda, Hollanda, Amerika Birleşik Devletleri bölgelerinde yer alan barındırma hizmetleri kullanılarak sağlanmaktadır. Bununla birlikte, işlenen Kişisel Veriler, bu ülkeler ve bölgeler dışında bir ülkede bulunan muhafaza sunucularına aktarılabilir ve depolanabilir. Kişisel Verilerinizin güvenli bir şekilde ve bu gizlilik politikasına uygun şekilde kullanılmasını sağlamak için makul ölçüde gerekli tüm adımları atacağız.
-5. Kişisel Verileri korumak için hangi güvenlik önlemleri uygulanmaktadır?
-Verilerinizin güvenliği ve diğer Kullanıcıların güvenliği bizim için çok önemlidir. Kişisel Verilerinizi kayıp ya da herhangi bir yasadışı işleme karşı korumak için teknik ve organizasyonel önlemler aldık. Aşağıdaki tedbirleri uyguladık: sunucularımızı güvenlik duvarları, SSL bağlantıları ve hassas verilerin şifrelenmesi yoluyla koruma. Bu liste ayrıntılı değildir. 
-6. Üçüncü şahıslarla ilgili sorumluluk sınırları
-Hizmetimiz üçüncü taraflar tarafından sunulan hizmetler ve ürünler ve / veya ortakların, reklamverenlerin ve diğer üçüncü tarafların web sitelerine veya hizmetlerine köprüler içerebilir.
-   
-Tarafların, bu üçüncü tarafların içeriği, web siteleri veya hizmetleri üzerinde herhangi bir kontrolü veya etkisi yoktur. Üçüncü kişi web sitelerinin ve hizmetlerinin kullanımı için farklı gizlilik politikaları uygulanabilir. Bu Gizlilik Beyanı, yalnızca taraflar tarafından Hizmeti kendi amaçları doğrultusunda kullanmanız yoluyla elde edilen Kişisel Verilerle ilgilidir. Taraflar, üçüncü taraf web sitelerinin ve hizmetlerin içeriği, uygulamaları veya işletilmesi ile ilgili herhangi bir sorumluluk kabul etmez.
-7. Kişisel Verileri Görüntüleme ve Silme
-Uygulamayı kullanarak toplanan kişisel bilgilere e-posta yoluyla bizimle iletişime geçmek veya silmek için bir istek gönderebilirsiniz. Kimliğinizi doğrulamak için ek bilgi sağlamanız istenebilir.
-8. Çocuk gizliliği
-Çocuklarla ilgili kişisel bilgiler bilerek veya kasıtlı olarak toplanmamaktadır.
-9. Güvenlik
-Kişisel bilgilerinizin güvenliğini sağlamak, hasar riskini en aza indirmek, bilgi kaybı ve yetkisiz erişimden veya bilgiyi kullanmak için önlemler uygulanmaktadır. Bununla birlikte, bu tedbirler mutlak bilgi güvenliği sağlayamamaktadır. Dolayısıyla, kişisel bilgilerinizin güvenliğini sağlamak için çaba sarf edilir, ancak bu garanti edilmez ve Uygulamanın ve ilgili veritabanlarının herhangi bir haksız davranış, arıza, izinsiz engeller veya erişim veya diğer kötüye kullanım ve kötüye kullanımdan muaf olacağını makul bir şekilde bekleyemezsiniz.
-10. Bu Gizlilik Bildiriminde Yapılan Değişiklikler
-Bu Beyan, herhangi bir zamanda güncellenebilir. Taraflar, Gizlilik Bildirimi'nin güncellenmiş bir sürümünü Hizmet aracılığıyla yayınlayacaktır. Taraflar, bu Gizlilik Bildirimi'nde yapacağı değişikliklerden haberdar olmak ve tarafların Kişisel Verilerinizi nasıl koruma altına alacakları konusunda bilgi sahibi olmak için bu sayfayı zaman zaman kontrol etmenizi önerir. Bu Gizlilik Bildirimini periyodik olarak gözden geçirmek ve güncellemeler hakkında bilgi sahibi olmak sizin sorumluluğunuzdadır ve kabul ve taahhüt eder.
- 
-Bu Bildirimde yapılan değişikliklerin herhangi birine bağlı kalmayı kabul etmektesiniz. Değişiklik yürürlüğe girdikten sonra Uygulamayı kullanmaya devam etmeniz, değiştirilen Bildirim'i kabul ettiğinizi gösterecektir. Değiştirilen Bildirimi kabul etmiyorsanız, Uygulamayı kaldırmanız ve onu daha fazla kullanmaktan kaçınmanız gerekir. 
-11. Herhangi bir sorunuz ya da açıklamalarınız varsa ne yapacaksınız?
-Bu Gizlilik Bildirimi ile ilgili herhangi bir sorunuz veya açıklamalarınız varsa, lütfen bir e-posta göndererek bizimle iletişime geçin. 
+6. Çocukların Gizliliği
 
-Bu Gizlilik Bildirimi son olarak 01 Ocak 2017 tarihinde güncellendi.
+Bu uygulama, 13 yaş altındaki çocuklara yönelik değildir ve bu yaş grubundan bilerek kişisel veri toplamaz.
 
+7. Politika Güncellemeleri
 
+Bu gizlilik politikası zaman zaman güncellenebilir. Güncellemeler bu sayfada yayınlanacaktır. Önemli değişiklikler kullanıcıya uygulama üzerinden bildirilebilir.
 
+8. İletişim
+
+Bu gizlilik politikası hakkında herhangi bir sorunuz varsa, lütfen aşağıdaki adresten bizimle iletişime geçin:
+
+📧 İletişim: hiperdevelopper@gmail.com
+📱 Uygulama Paketi: com.yuhdeveloper.pomodoroapp
